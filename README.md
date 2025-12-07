@@ -69,7 +69,8 @@ Final cleaned CSV was used for Tableau dashboards.
 
 ## 📊 Dashboard Summary (4 Pages)
 
-### **1️⃣ Overview**  
+### **1️⃣ Overview**
+![image alt](https://github.com/IshtiaakM/DXOMARK-Unfiltered-The-Truth-Behind-Smartphone-Camera-Scores/blob/main/dashboard%20images/dashboard%201.png?raw=true)
 **Purpose:** High-level summary of smartphone camera landscape  
 🔹 Total brands analyzed  
 🔹 Top score achieved  
@@ -86,6 +87,7 @@ Final cleaned CSV was used for Tableau dashboards.
 
 ### **2️⃣ Hardware Impact – Do specs really matter?**  
 Focus: Megapixels + Aperture vs Real Results
+![image alt](https://github.com/IshtiaakM/DXOMARK-Unfiltered-The-Truth-Behind-Smartphone-Camera-Scores/blob/main/dashboard%20images/dashboard%202.png?raw=true)
 
 Visuals Included:
 - MP vs Camera Score Scatter
@@ -104,6 +106,7 @@ Visuals Included:
 
 ### **3️⃣ Chipset & ISP Intelligence – Who processes images best?**  
 Focus: Computational photography & post-processing impact
+![image alt](https://github.com/IshtiaakM/DXOMARK-Unfiltered-The-Truth-Behind-Smartphone-Camera-Scores/blob/main/dashboard%20images/dashboard%203.png?raw=true)
 
 Visuals Included:
 - ISP Score Distribution by Chip Variant
@@ -122,7 +125,8 @@ Visuals Included:
 ---
 
 ### **4️⃣ Camera Value — Price vs Score Reality Check**  
-Focus: Best value, overpriced models & yearly winners  
+Focus: Best value, overpriced models & yearly winners
+![image alt](https://github.com/IshtiaakM/DXOMARK-Unfiltered-The-Truth-Behind-Smartphone-Camera-Scores/blob/main/dashboard%20images/dashboard%204.png?raw=true)
 
 Visuals Included:
 - **Price vs Score Quadrant Scatter per Year**
