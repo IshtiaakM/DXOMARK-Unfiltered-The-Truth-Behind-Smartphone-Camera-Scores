@@ -166,7 +166,7 @@ pip install -r requirements.txt
 python dxo_scraper.py
 ```
 
-4. You will get a file named `dxomark_phones.csv` containing all the required fields. For further data transformation and you will get a file `Final_dxoMark_scores.csv` 
-Alternatively, check our scraped data here: 
+4. You will get a file named `dxomark_phones.csv` containing all the required fields. For further data transformation and you will get a file `Final_dxoMark_scores.csv` <br/>
+Alternatively, check our scraped data here: https://github.com/IshtiaakM/DXOMARK-Unfiltered-The-Truth-Behind-Smartphone-Camera-Scores/blob/de8d44042eacd5d70b2eb28c63e16394a9aa828e/Final_dxoMark_scores.csv
 
 ---
