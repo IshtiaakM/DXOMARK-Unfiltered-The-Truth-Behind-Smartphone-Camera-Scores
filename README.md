@@ -24,7 +24,17 @@ https://www.dxomark.com/smartphones/
 ````
 
 ### Scraping Method  
-Data extraction was done using **Selenium**. As all the were scattered around different pages, so i need to to load the full list and go each phone's individual pages to get the data.
+Data extraction was done using **Selenium**. The required data was not available on a single page; instead, it was distributed across multiple pages.
+
+The scraping process followed these steps:
+1. Load and scroll through the full smartphone ranking list to ensure all devices were rendered.
+2. Extract the basic metadata and profile links for each phone from the main page.
+3. For every phone, visit **two different detail pages**:
+   - One page to collect **Chipset, Camera lense info**.
+   - Another page to extract **related scores**.
+4. Merge data from all pages into a single structured dataset.
+
+This multi-step navigation approach was necessary to accurately collect complete and reliable data for all smartphones.
 
 Data scraped from:
 | Source | Fields Extracted |
@@ -50,10 +60,8 @@ Data scraped from:
 ✔ Created and Normalized chipset naming (MediaTek, Exynos, HarmonyOS…)  
 ✔ Removed Null values from the data 
 ✔ Created calculated fields for:  
-- Budget classification  
-- Value quadrant mapping  
+- Budget classification
 - MP buckets  
-- ISP score aggregation
 
 Final cleaned CSV was used for Tableau dashboards.
 
@@ -106,10 +114,10 @@ Visuals Included:
 **Findings:**  
 ✔ Snapdragon & Apple lead overall ISP optimization  
 ✔ Huawei/HarmonyOS performs efficiently despite lower MP hardware  
-✔ Strong correlation between **image processing score & final DXOMARK score** (much higher than MP/aperture)
+✔ Strong correlation between **image processing score & final DXOMARK score** (higher than MP/aperture)
 
 > **Conclusion:**  
-> Modern smartphone photography is a *algorithm war*, not a megapixel war.
+> Modern smartphone photography is a * algorithmic processing war*, not a megapixel war.
 
 ---
 
