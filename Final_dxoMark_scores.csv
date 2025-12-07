@@ -1,0 +1,216 @@
+Rank,Brand Name,Model Name,Launch Date,Launch Price,Overall Camera Score,Chipset,Camera MP,Aperture,Number of Cameras,Photo Score,Bokeh Score,Video Score,Exposure,Color,Auto Focus,Texture,Noise,Artifacts,Stabilization,Chip variant,Image Processing Score,Balance Score
+1,Huawei,Huawei Pura 80 Ultra,2025,1199,175,HarmonyOS Kirin 9020,50.0,1.6,4.0,180,175,166,134,133,135,130,128,78,121,HarmonyOS,120.6,173.7
+2,Oppo,Oppo Find X8 Ultra,2025,899,168,Qualcomm Snapdragon 8 Elite,50.0,1.8,4.0,170,175,166,130,129,123,130,129,74,120,Qualcomm,118.4,170.3
+3,Apple,Apple iPhone 17 Pro,2025,1099,168,Apple A19 Pro,48.0,1.78,3.0,166,170,172,126,131,120,128,120,79,124,Apple,116.8,169.3
+4,Vivo,Vivo X200 Ultra,2025,1100,167,Qualcomm Snapdragon 8 Elite,50.0,1.7,3.0,173,175,156,130,128,117,132,127,78,109,Qualcomm,119.0,168.0
+7,Apple,Apple iPhone 16 Pro Max,2024,1199,161,Apple A18 Pro,48.0,1.78,3.0,158,160,167,125,129,119,126,118,74,122,Apple,114.4,161.7
+8,Google,Google Pixel 9 Pro XL,2024,1099,160,Google Tensor G4,50.0,1.68,3.0,163,155,155,129,123,111,123,121,80,113,Google,115.2,157.7
+9,Xiaomi,Xiaomi 15 Ultra,2025,1499,159,Qualcomm Snapdragon 8 Elite,50.0,1.63,4.0,167,170,143,118,130,117,129,127,76,108,Qualcomm,116.0,160.0
+10,Honor,Honor Magic6 Pro,2024,1299,158,Qualcomm Snapdragon 8 Gen 3,50.0,1.4,3.0,79,81,160,160,119,124,121,112,115,112,Qualcomm,125.4,106.7
+12,Huawei,Huawei Mate 60 Pro+,2023,1363,157,Huawei Kirin 9000S,48.0,3.0,3.0,77,75,152,160,121,121,123,118,115,109,HarmonyOS,127.4,101.3
+13,Oppo,Oppo Find X8 Pro,2024,1199,157,MediaTek Dimensity 9400,50.0,1.6,4.0,83,80,155,160,119,124,109,120,112,107,MediaTek,124.0,106.0
+14,Oppo,Oppo Find X7 Ultra,2024,1060,157,Qualcomm Snapdragon 8 Gen 3,50.0,1.8,4.0,84,76,156,156,118,124,112,118,111,116,Qualcomm,123.0,105.3
+15,Huawei,Huawei P60 Pro,2023,1058,156,Qualcomm Snapdragon 8+ Gen 1,48.0,1.4,3.0,77,77,158,159,118,119,120,116,115,114,Qualcomm,125.6,104.0
+16,Apple,Apple iPhone 15 Pro Max,2023,1199,154,Apple A17 Pro,48.0,1.78,3.0,85,75,142,153,123,125,105,123,93,111,Apple,119.4,100.7
+17,Apple,Apple iPhone 15 Pro,2023,999,154,Apple A17 Pro,48.0,1.78,3.0,119,92,85,118,153,123,124,105,124,111,Apple,124.8,98.7
+18,Google,Google Pixel 8 Pro,2023,999,153,Google Tensor G3,50.0,1.68,3.0,82,81,152,155,113,120,112,114,104,111,Google,119.6,105.0
+19,Oppo,Oppo Find X6 Pro,2023,908,153,Qualcomm Snapdragon 8 Gen 2,50.0,1.8,3.0,78,76,154,153,114,118,102,118,115,118,Qualcomm,120.4,102.7
+20,Honor,Honor Magic5 Pro,2023,1199,152,Qualcomm Snapdragon 8 Gen 2,50.0,1.6,3.0,77,77,156,154,117,117,110,114,116,112,Qualcomm,122.2,103.3
+22,Honor,Honor Magic V5,2025,1699,150,Qualcomm Snapdragon 8 Elite,50.0,1.6,3.0,164,0,124,0,0,0,0,0,0,0,Qualcomm,0.0,96.0
+23,Oppo,Oppo Find X6,2023,681,150,MediaTek Dimensity 9200,50.0,1.8,3.0,82,77,148,152,113,116,109,109,116,114,MediaTek,119.8,102.3
+24,Vivo,Vivo X100 Pro,2023,757,150,MediaTek Dimensity 9300,50.0,1.8,3.0,84,75,155,149,113,115,96,117,114,112,MediaTek,117.8,104.7
+25,Huawei,Huawei Mate 50 Pro,2022,1299,149,Qualcomm Snapdragon 8+ Gen 1 4G,50.0,1.4,3.0,79,74,148,152,117,116,116,107,113,110,Qualcomm,121.0,100.3
+26,Xiaomi,Xiaomi 14 Ultra,2024,1499,149,Qualcomm Snapdragon 8GEN3,50.0,1.63,4.0,75,80,160,144,117,111,93,108,112,113,Qualcomm,114.8,105.0
+27,Google,Google Pixel 8,2023,699,148,Google Tensor G3,50.0,1.68,2.0,107,101,64,115,152,113,118,110,115,110,Google,122.0,90.7
+29,Apple,Apple iPhone 16,2024,799,147,Apple A18,48.0,1.6,2.0,117,97,84,117,149,124,129,100,109,108,Apple,120.8,99.3
+30,Google,Google Pixel 7 Pro,2022,899,147,Google Tensor G2,50.0,1.85,3.0,107,96,70,116,148,113,119,114,112,108,Google,121.8,91.0
+31,Honor,Honor Magic4 Ultimate,2022,1211,147,Qualcomm Snapdragon 8 Gen 1,50.0,1.6,4.0,80,75,151,150,116,112,112,107,115,108,Qualcomm,120.0,102.0
+33,Apple,Apple iPhone 14 Pro Max,2022,1099,146,Apple A16 Bionic,48.0,1.78,3.0,143,80,149,111,119,112,111,87,72,117,Apple,100.0,124.0
+34,Apple,Apple iPhone 14 Pro,2022,999,146,Apple A16 Bionic,48.0,1.78,3.0,74,72,139,143,111,119,112,111,87,113,Apple,112.8,95.0
+35,Motorola,Motorola Edge 50 Ultra,2024,999,146,Qualcomm Snapdragon 8s Gen 3,50.0,1.6,3.0,73,74,147,150,115,117,112,112,110,97,Qualcomm,119.8,98.0
+36,Apple,Apple iPhone 15,2023,799,145,Apple A16 Bionic,48.0,1.6,2.0,117,97,84,117,147,122,122,100,113,107,Apple,119.8,99.3
+37,Apple,Apple iPhone 15 Plus,2023,899,145,Apple A16 bionic,48.0,1.6,2.0,147,80,153,122,122,100,113,97,75,117,Apple,105.8,126.7
+38,Samsung,Samsung Galaxy Z Fold7,2025,1999,145,Qualcomm Snapdragon 8 Elite,200.0,1.7,3.0,147,0,141,0,0,0,0,0,0,0,Qualcomm,0.0,96.0
+39,Samsung,Samsung Galaxy S24 Ultra,2024,1299,144,Qualcomm Snapdragon 8 Gen 3,200.0,1.7,4.0,80,75,145,144,118,121,96,115,92,103,Qualcomm,113.0,100.0
+40,Google,Google Pixel 9,2024,799,143,Google Tensor G4,50.0,1.68,2.0,109,106,83,113,161,122,126,112,119,111,Google,126.2,99.3
+41,Huawei,Huawei P50 Pro,2021,907,143,HiSilicon Kirin 9000,50.0,1.85,4.0,143,0,139,0,0,0,0,0,0,0,HiSilicon,0.0,94.0
+42,Apple,Apple iPhone Air,2025,999,141,Apple A19 Pro,48.0,1.6,1.0,178,124,165,116,134,166,125,129,116,124,Apple,124.0,155.7
+43,Apple,Apple iPhone 13 Pro Max,2021,1099,141,Apple A15 Bionic,12.0,1.5,3.0,140,75,146,110,115,111,106,87,71,112,Apple,97.8,120.3
+44,Apple,Apple iPhone 13 Pro,2021,999,141,Apple A15 Bionic,12.0,1.5,3.0,73,71,119,140,110,115,111,106,87,111,Apple,110.8,87.7
+45,Xiaomi,Xiaomi Mi 11 Ultra,2021,1200,141,Qualcomm Snapdragon 888 5G,50.0,1.95,3.0,139,0,138,0,0,0,0,0,0,0,Qualcomm,0.0,92.3
+46,Google,Google Pixel 7,2022,599,140,Google Tensor G2,50.0,1.85,2.0,106,96,72,116,145,113,119,113,113,108,Google,121.2,91.3
+48,Samsung,Samsung Galaxy S23 Ultra,2023,1199,140,Qualcomm Snapdragon 8 Gen 2,200.0,1.7,4.0,77,71,141,139,105,113,112,113,90,108,Qualcomm,111.8,96.3
+49,Vivo,Vivo X90 Pro+,2022,985,140,Qualcomm Snapdragon 8 Gen 2,50.0,1.75,4.0,75,80,150,142,110,108,85,112,110,96,Qualcomm,111.8,101.7
+50,Xiaomi,Xiaomi 13 Ultra,2023,908,140,Qualcomm Snapdragon 8 Gen 2,50.0,1.9,4.0,72,71,147,138,110,110,90,110,105,111,Qualcomm,110.6,96.7
+51,Huawei,Huawei Mate 40 Pro+,2020,1363,139,HiSilicon Kirin 9000 5G,50.0,1.9,4.0,141,0,131,0,0,0,0,0,0,0,HiSilicon,0.0,90.7
+53,Xiaomi,Xiaomi 14,2024,999,138,Qualcomm Snapdragon 8 Gen 3,50.0,1.6,3.0,137,55,138,106,105,90,110,109,70,110,Qualcomm,100.0,110.0
+54,Honor,Honor Magic V3,2024,1699,137,Qualcomm Snapdragon 8gen3,50.0,1.6,3.0,137,0,135,0,0,0,0,0,0,0,Qualcomm,0.0,90.7
+55,Honor,Honor 200 Pro,2024,530,137,Qualcomm Snapdragon 8s Gen 3,50.0,1.9,3.0,116,96,69,105,138,111,106,113,105,94,Qualcomm,113.4,93.7
+56,Samsung,Samsung Galaxy Z Flip7,2025,1099,137,Samsung Exynos 2500,50.0,1.8,2.0,142,0,128,0,0,0,0,0,0,0,Exynos,0.0,90.0
+57,Vivo,Vivo X80 Pro (Snapdragon),2022,1299,137,Qualcomm Snapdragon 8 Gen 1,50.0,1.57,4.0,104,99,59,81,112,139,109,107,97,104,Qualcomm,101.2,87.3
+58,Google,Google Pixel 8a,2024,499,136,Google Tensor G3,64.0,1.89,2.0,93,107,71,79,114,141,116,117,104,93,Google,106.0,90.3
+59,Vivo,Vivo X90 Pro,2022,757,136,Mediatek Dimensity 9200,50.0,1.75,3.0,113,104,71,110,133,111,110,74,97,106,MediaTek,104.8,96.0
+60,Xiaomi,Xiaomi 13 Pro,2022,1299,136,Qualcomm Snapdragon 8 Gen 2,50.0,1.9,3.0,84,71,143,136,105,104,92,105,103,107,Qualcomm,108.2,99.3
+61,Xiaomi,Xiaomi 12S Ultra,2022,908,136,Qualcomm Snapdragon 8+ Gen 1,50.0,1.9,3.0,86,73,136,137,105,102,93,105,107,107,Qualcomm,109.4,98.3
+62,Huawei,Huawei Mate 40 Pro,2020,1199,135,HiSilicon Kirin 9000 5G,50.0,1.9,3.0,136,0,136,0,0,0,0,0,0,0,HiSilicon,0.0,90.7
+63,Samsung,Samsung Galaxy S22 Ultra (Snapdragon),2022,1199,135,Qualcomm Snapdragon 8 Gen 1,108.0,1.8,4.0,135,70,127,103,117,105,109,86,68,109,Qualcomm,96.6,110.7
+64,Vivo,Vivo X80 Pro (MediaTek),2022,909,135,Mediatek Dimensity 9000,50.0,1.57,4.0,111,101,57,112,137,108,108,95,102,110,MediaTek,110.8,89.7
+65,Xiaomi,Xiaomi 14T Pro,2024,799,135,Mediatek Dimensity 9300+,50.0,1.6,3.0,109,105,67,81,112,129,107,110,100,109,MediaTek,102.0,93.7
+66,Google,Google Pixel 6 Pro,2021,899,134,Google Tensor Chip,50.0,1.85,3.0,77,79,115,138,108,112,101,108,95,106,Google,110.0,90.3
+67,Vivo,Vivo X70 Pro+,2021,833,134,Qualcomm Snapdragon 888+ 5G,50.0,1.6,4.0,132,0,133,0,0,0,0,0,0,0,Qualcomm,0.0,88.3
+68,Xiaomi,Xiaomi 14T,2024,649,134,MediaTek Dimensity 8300-Ultra,50.0,1.6,3.0,130,55,133,106,100,100,104,105,69,108,MediaTek,96.8,106.0
+69,Apple,Apple iPhone 14 Plus,2022,899,133,Apple A15 Bionic,12.0,1.5,2.0,135,70,146,110,116,110,103,80,71,116,Apple,96.0,117.0
+70,Apple,Apple iPhone 14,2022,799,133,Apple A15 Bionic,12.0,1.5,2.0,109,103,85,73,116,135,110,116,110,109,Apple,105.0,99.0
+71,Google,Google Pixel Fold,2023,1799,133,Google Tensor G2,48.0,1.7,3.0,86,102,63,79,113,137,110,110,110,86,Google,104.4,83.7
+72,Google,Google Pixel 7a,2023,499,133,Google Tensor G2,64.0,1.9,2.0,80,78,105,138,110,118,104,108,88,91,Google,109.6,87.7
+73,Samsung,Samsung Galaxy S24 FE,2024,650,133,Samsung Exynos 2400e,50.0,1.8,3.0,136,60,125,115,109,114,108,81,72,112,Exynos,97.0,107.0
+74,Samsung,Samsung Galaxy S24 (Exynos),2024,799,133,Samsung Exynos 2400,50.0,1.8,3.0,78,73,135,134,114,106,108,104,81,104,Exynos,108.2,95.3
+75,Samsung,Samsung Galaxy S24+ (Exynos),2024,999,133,Samsung Exynos 2400,50.0,1.8,3.0,134,65,125,114,106,108,104,81,73,112,Exynos,95.6,108.0
+76,Samsung,Samsung Galaxy S23+,2023,1049,133,Qualcomm Snapdragon 8 Gen 2,50.0,1.8,3.0,129,70,137,106,111,105,108,85,66,114,Qualcomm,95.2,112.0
+77,Samsung,Samsung Galaxy S23,2023,799,133,Qualcomm Snapdragon 8 Gen 2,50.0,1.8,3.0,106,85,72,114,129,106,111,105,108,105,Qualcomm,113.4,87.7
+78,Apple,Apple iPhone 12 Pro Max,2020,1099,131,Apple A14 Bionic,12.0,1.6,3.0,131,0,130,0,0,0,0,0,0,0,Apple,0.0,87.0
+79,Samsung,Samsung Galaxy S22 Ultra (Exynos),2022,1299,131,Samsung Exynos 2200,108.0,1.8,4.0,79,66,134,127,106,113,95,105,83,103,Exynos,103.2,93.0
+80,Xiaomi,Xiaomi 13T Pro,2023,799,131,Mediatek Dimensity 9200+,50.0,1.9,3.0,111,101,77,108,135,108,103,101,107,115,MediaTek,110.8,96.3
+81,Honor,Honor 200,2024,408,130,Qualcomm Snapdragon 7 Gen3,50.0,2.4,3.0,133,65,121,110,107,100,94,100,71,111,Qualcomm,96.4,106.3
+82,Motorola,Motorola Edge 40 Pro,2023,899,130,Qualcomm Snapdragon 8 Gen 2,50.0,1.88,3.0,79,73,95,133,109,111,96,101,91,100,Qualcomm,106.0,82.3
+83,Oppo,Oppo Find X5 Pro,2022,1299,130,Qualcomm Snapdragon 8 Gen 1,50.0,1.7,3.0,103,87,65,112,130,108,115,96,106,104,Qualcomm,111.8,85.0
+84,Samsung,Samsung Galaxy Z Fold6,2024,1999,130,Qualcomm Snapdragon 8 Gen 3,50.0,1.8,3.0,104,85,71,114,132,110,114,101,107,105,Qualcomm,113.6,86.7
+85,Xiaomi,Xiaomi 13,2022,999,130,Qualcomm Snapdragon 8 Gen 2,50.0,1.8,3.0,112,105,68,85,112,131,103,108,91,112,Qualcomm,99.8,95.0
+86,Google,Google Pixel 9 Pro Fold,2024,1799,129,Google Tensor 4,12.0,1.7,3.0,90,104,77,80,115,150,111,118,114,90,Google,107.6,90.3
+87,Huawei,Huawei P40 Pro,2020,1099,129,HiSilicon Kirin 990 5G,50.0,1.9,3.0,130,0,127,0,0,0,0,0,0,0,HiSilicon,0.0,85.7
+88,Samsung,Samsung Galaxy Z Flip6,2024,1199,129,Qualcomm Snapdragon 8 Gen 3,50.0,1.8,2.0,104,84,76,114,132,110,111,97,109,104,Qualcomm,112.6,88.0
+89,Xiaomi,Xiaomi 12T Pro,2022,799,129,Qualcomm Snapdragon 8+ Gen 1,200.0,1.69,3.0,111,92,71,111,130,102,109,86,106,113,Qualcomm,108.4,91.3
+90,Xiaomi,Xiaomi 12 Pro,2022,999,129,Qualcomm Snapdragon 8 Gen 1,50.0,1.9,3.0,136,70,125,108,111,105,113,89,64,111,Qualcomm,97.0,110.3
+91,Xiaomi,Xiaomi Mi 10 Ultra,2020,803,129,Qualcomm Snapdragon 865,48.0,1.85,4.0,129,0,118,0,0,0,0,0,0,0,Qualcomm,0.0,82.3
+92,Google,Google Pixel 9a,2025,499,128,Google Tensor G4,48.0,1.7,2.0,118,109,81,96,84,110,150,122,125,93,Google,115.4,102.7
+93,Oppo,Oppo Find X3 Pro,2021,1149,128,Qualcomm Snapdragon 888,50.0,1.8,4.0,134,0,125,0,0,0,0,0,0,0,Qualcomm,0.0,86.3
+94,Samsung,Samsung Galaxy Z Fold5,2023,1799,128,Qualcomm Snapdragon 8 Gen 2,50.0,1.8,3.0,78,74,128,127,104,108,96,99,82,100,Qualcomm,101.6,93.3
+95,Apple,Apple iPhone 12 Pro,2020,999,127,Apple A14 Bionic,12.0,1.6,3.0,126,0,130,0,0,0,0,0,0,0,Apple,0.0,85.3
+96,Asus,Asus Smartphone for Snapdragon Insiders,2021,1499,127,Qualcomm Snapdragon 888,64.0,1.8,3.0,131,0,123,0,0,0,0,0,0,0,Qualcomm,0.0,84.7
+97,OnePlus,OnePlus 11,2023,699,127,Qualcomm Snapdragon 8 Gen 2,50.0,1.8,3.0,106,106,60,74,107,134,107,109,98,106,Qualcomm,99.0,90.7
+98,Samsung,Samsung Galaxy S23 FE,2023,599,127,Exynos 2200,50.0,1.8,3.0,109,108,67,78,115,124,106,108,102,109,Exynos,101.8,94.7
+99,Samsung,Samsung Galaxy Z Flip5,2023,999,127,Qualcomm Snapdragon 8 Gen 2,12.0,1.8,2.0,96,107,65,77,110,132,110,108,103,96,Qualcomm,101.6,89.3
+100,Google,Google Pixel 6,2021,599,126,Google Tensor,50.0,1.85,2.0,136,0,133,0,0,0,0,0,0,0,Google,0.0,89.7
+101,Honor,Honor Magic4 Pro,2022,1099,126,Qualcomm Snapdragon 8 Gen 1,50.0,1.8,3.0,132,60,117,108,94,92,100,108,73,114,Qualcomm,96.6,103.0
+102,Vivo,Vivo X70 Pro (MediaTek),2021,651,126,Mediatek Dimensity 1200 5G,50.0,1.8,4.0,130,0,125,0,0,0,0,0,0,0,MediaTek,0.0,85.0
+103,Vivo,Vivo X60 Pro+,2020,757,126,Qualcomm Snapdragon 888 5G,50.0,1.6,4.0,126,0,120,0,0,0,0,0,0,0,Qualcomm,0.0,82.0
+104,Apple,Apple iPhone 13 mini,2021,699,125,Apple A15 Bionic,12.0,1.6,2.0,133,0,144,0,0,0,0,0,0,0,Apple,0.0,92.3
+105,Apple,Apple iPhone 13,2021,799,125,Apple A15 Bionic,12.0,1.6,2.0,133,0,144,0,0,0,0,0,0,0,Apple,0.0,92.3
+106,Asus,Asus Zenfone 11 Ultra,2024,899,125,Qualcomm Snapdragon 8 Gen3,50.0,1.9,3.0,87,89,68,107,131,107,110,103,100,106,Qualcomm,110.2,81.3
+107,Samsung,Samsung Galaxy S22+ (Exynos),2022,1049,125,Samsung Exynos 2200,50.0,1.8,3.0,122,75,124,105,111,97,97,78,65,108,Exynos,91.2,107.0
+108,Vivo,Vivo X50 Pro+,2020,757,125,Qualcomm Snapdragon 865,50.0,1.85,4.0,130,0,117,0,0,0,0,0,0,0,Qualcomm,0.0,82.3
+109,Samsung,Samsung Galaxy Z Fold4,2022,1799,124,Qualcomm Snapdragon 8+ Gen 1,50.0,1.8,3.0,107,93,71,113,131,103,104,105,101,88,Qualcomm,110.8,90.3
+110,Xiaomi,Xiaomi Mi 11 Pro,2021,757,124,Qualcomm Snapdragon 888 5G,50.0,1.95,3.0,118,0,132,0,0,0,0,0,0,0,Qualcomm,0.0,83.3
+111,Xiaomi,Xiaomi 13T,2023,649,123,Mediatek Dimensity 8200 Ultra,50.0,1.9,3.0,115,101,65,79,110,121,102,82,93,115,MediaTek,93.2,93.7
+112,Google,Google Pixel 6a,2022,459,122,Google Tensor,12.0,1.7,2.0,98,96,133,80,114,133,108,113,102,98,Google,103.4,109.0
+113,Honor,Honor 90,2023,599,122,Qualcomm Snapdragon 7 Gen 1,200.0,1.9,3.0,91,90,64,81,95,128,110,102,111,91,Qualcomm,99.8,81.7
+114,OnePlus,OnePlus 10 Pro,2022,899,122,Qualcomm Snapdragon 8 Gen 1,48.0,1.8,3.0,124,65,119,104,98,91,109,91,71,106,Qualcomm,94.6,102.7
+115,OnePlus,OnePlus 9 Pro,2021,969,122,Qualcomm Snapdragon 888,48.0,1.8,4.0,124,0,118,0,0,0,0,0,0,0,Qualcomm,0.0,80.7
+116,Xiaomi,Xiaomi Redmi Note 13 Pro Plus 5G,2023,470,121,MediaTek Dimensity 7200 Ultra,200.0,1.7,3.0,123,60,117,104,98,102,98,95,71,97,MediaTek,93.2,100.0
+117,Samsung,Samsung Galaxy S22 (Exynos),2022,799,120,Samsung Exynos 2200,50.0,1.8,3.0,119,75,116,105,110,97,93,82,61,108,Exynos,90.2,103.3
+118,Samsung,Samsung Galaxy Z Fold3 5G,2021,1799,120,Qualcomm Snapdragon 888 5G,12.0,1.8,3.0,129,0,105,0,0,0,0,0,0,0,Qualcomm,0.0,78.0
+119,Xiaomi,Xiaomi Redmi Note 13 Pro 5G,2023,349,120,Qualcomm Snapdragon 7s Gen 2,200.0,1.65,3.0,121,0,118,0,0,0,0,0,0,0,Qualcomm,0.0,79.7
+120,Honor,Honor Magic Vs,2023,1599,119,Qualcomm Snapdragon 8+ gen1,54.0,1.9,3.0,114,0,124,0,0,0,0,0,0,0,Qualcomm,0.0,79.3
+121,Sony,Sony Xperia 5 IV,2022,999,119,Qualcomm Snapdragon 8 Gen 1,12.0,1.7,3.0,121,55,113,92,112,101,94,91,68,104,Qualcomm,91.4,96.3
+122,Sony,Sony Xperia 5 V,2023,999,118,Qualcomm Snapdragon 8 Gen 2,48.0,1.9,2.0,93,103,58,82,104,124,99,112,93,93,Qualcomm,98.0,84.7
+123,Sony,Sony Xperia 1 IV,2022,1599,118,Qualcomm Snapdragon 8 Gen 1,12.0,1.7,3.0,82,67,116,118,91,108,95,97,91,83,Qualcomm,98.4,88.3
+124,Apple,Apple iPhone 12,2020,799,117,Apple A14 Bionic,12.0,1.6,2.0,127,0,130,0,0,0,0,0,0,0,Apple,0.0,85.7
+125,Apple,Apple iPhone 12 mini,2020,699,117,Apple A14 Bionic,12.0,1.6,2.0,128,0,129,0,0,0,0,0,0,0,Apple,0.0,85.7
+126,Honor,Honor Magic V2,2024,1999,117,Qualcomm Snapdragon 8 Gen 2,50.0,1.9,3.0,109,0,120,0,0,0,0,0,0,0,Qualcomm,0.0,76.3
+127,Samsung,Samsung Galaxy S21 FE 5G (Snapdragon),2022,699,117,Qualcomm Snapdragon 888 5G,12.0,1.8,3.0,119,0,107,0,0,0,0,0,0,0,Qualcomm,0.0,75.3
+128,Samsung,Samsung Galaxy S21 Ultra 5G (Snapdragon),2021,1199,117,Qualcomm Snapdragon 888,108.0,1.8,4.0,125,0,112,0,0,0,0,0,0,0,Qualcomm,0.0,79.0
+129,Samsung,Samsung Galaxy S21 5G (Snapdragon),2021,799,117,Qualcomm Snapdragon 888 5G,12.0,1.8,3.0,118,0,106,0,0,0,0,0,0,0,Qualcomm,0.0,74.7
+130,Asus,Asus Zenfone 8,2021,629,116,Qualcomm Snapdragon 888 5G,64.0,1.8,2.0,120,0,118,0,0,0,0,0,0,0,Qualcomm,0.0,79.3
+131,Vivo,Vivo X60 Pro 5G (Snapdragon),2021,799,116,Qualcomm Snapdragon 870 5G,48.0,1.5,3.0,126,0,106,0,0,0,0,0,0,0,Qualcomm,0.0,77.3
+132,Honor,Honor 70,2022,599,115,Qualcomm Snapdragon 778G+ 5G,54.0,1.9,3.0,115,55,129,106,92,100,87,99,74,107,Qualcomm,91.6,99.7
+134,Samsung,Samsung Galaxy S21+ 5G (Snapdragon),2021,999,115,Qualcomm Snapdragon 888,12.0,1.8,3.0,117,0,106,0,0,0,0,0,0,0,Qualcomm,0.0,74.3
+135,Samsung,Samsung Galaxy S21 Ultra 5G (Exynos),2021,1259,115,Samsung Exynos 2100,108.0,1.8,4.0,121,0,100,0,0,0,0,0,0,0,Exynos,0.0,73.7
+136,Xiaomi,Xiaomi 12T,2022,599,115,Mediatek Dimensity 8100-Ultra,108.0,1.65,3.0,112,94,120,78,109,120,90,81,89,112,MediaTek,89.4,108.7
+137,Nothing,Nothing Phone(1),2022,469,114,Qualcomm Snapdragon 778G+,50.0,1.88,2.0,89,94,73,103,121,96,94,85,102,108,Qualcomm,101.0,85.3
+138,OnePlus,OnePlus Nord 2T 5G,2022,399,114,MediaTek Dimensity 1300,50.0,1.9,3.0,119,0,123,0,0,0,0,0,0,0,MediaTek,0.0,80.7
+139,Oppo,Oppo Find N2 Flip,2022,1099,114,MediaTek Dimensity 9000+,50.0,1.8,2.0,104,105,58,79,104,121,110,98,91,104,MediaTek,96.4,89.0
+140,Oppo,Oppo Reno8 Pro 5G,2022,799,114,Mediatek Dimensity 8100 Max,50.0,1.8,3.0,102,102,125,77,101,125,110,100,108,102,MediaTek,99.2,109.7
+141,Oppo,Oppo Find X5,2022,999,114,Qualcomm Snapdragon 888 5G,50.0,1.8,3.0,124,60,95,102,111,84,114,85,68,94,Qualcomm,96.0,93.0
+142,Samsung,Samsung Galaxy A56,2025,499,114,Samsung Exynos 1580,50.0,1.8,3.0,117,0,108,0,0,0,0,0,0,0,Exynos,0.0,75.0
+143,Crosscall,Crosscall Stellar-X5,2023,899,113,Qualcomm QCM5430 FP2,50.0,1.8,2.0,101,102,90,91,105,105,72,101,115,105,Qualcomm,96.8,97.7
+144,OnePlus,OnePlus 8 Pro,2020,899,113,Qualcomm Snapdragon 865 5G,48.0,1.78,3.0,113,0,109,0,0,0,0,0,0,0,Qualcomm,0.0,74.0
+145,Xiaomi,Xiaomi Redmi Note 12 Pro+ 5G,2023,499,113,MediaTek Dimensity 1080 5G,200.0,1.7,3.0,77,99,62,77,98,117,100,109,89,77,MediaTek,94.6,79.3
+146,Xiaomi,Xiaomi 12,2022,749,113,Qualcomm Snapdragon 8 Gen 1,50.0,1.88,3.0,118,55,121,102,101,97,108,91,67,110,Qualcomm,93.8,98.0
+147,Oppo,Oppo Reno8 5G,2022,599,112,Mediatek Dimensity 1300,50.0,1.8,3.0,121,50,112,109,97,104,103,89,70,94,MediaTek,93.6,94.3
+148,Samsung,Samsung Galaxy Z Flip4,2022,999,112,Qualcomm Snapdragon 8+ Gen 1,12.0,1.8,2.0,125,0,113,0,0,0,0,0,0,0,Qualcomm,0.0,79.3
+149,Samsung,Samsung Galaxy Z Flip3 5G,2021,999,111,Qualcomm Snapdragon 888 5G,12.0,1.8,2.0,92,97,118,79,104,118,102,111,87,92,Qualcomm,96.6,102.3
+150,Samsung,Samsung Galaxy S21 5G (Exynos),2021,859,111,Samsung Exynos 2100,12.0,1.8,3.0,118,0,90,0,0,0,0,0,0,0,Exynos,0.0,69.3
+151,Samsung,Samsung Galaxy S21+ 5G (Exynos),2021,1059,111,Samsung Exynos 2100,12.0,1.8,3.0,118,0,89,0,0,0,0,0,0,0,Exynos,0.0,69.0
+152,Google,Google Pixel 5,2020,699,109,Qualcomm Snapdragon 765G,12.0,1.7,2.0,119,0,106,0,0,0,0,0,0,0,Qualcomm,0.0,75.0
+153,Xiaomi,Xiaomi 12 Lite 5G,2022,449,109,Qualcomm Snapdragon 778G 5G,108.0,1.9,3.0,111,40,121,104,102,92,83,83,71,107,Qualcomm,88.6,90.7
+154,Asus,Asus ROG Phone 7,2023,999,108,Qualcomm Snapdragon 8 Gen 2,50.0,1.9,3.0,88,94,56,82,103,126,103,106,106,88,Qualcomm,100.0,79.3
+155,Fairphone,Fairphone 5,2023,699,108,Qualcomm QCM6490,50.0,1.88,2.0,80,88,64,75,88,115,97,103,97,80,Qualcomm,92.0,77.3
+156,Samsung,Samsung Galaxy A55 5G,2024,499,108,Exynos 1480,50.0,1.8,3.0,110,45,117,98,92,90,93,71,67,103,Exynos,84.2,90.7
+157,Vivo,Vivo X60 Pro 5G (Exynos),2021,799,108,Samsung Exynos 1080,48.0,1.5,4.0,113,0,92,0,0,0,0,0,0,0,Exynos,0.0,68.3
+158,Xiaomi,Xiaomi 11T Pro,2021,699,108,Qualcomm Snapdragon 888 5G,108.0,1.75,3.0,110,0,126,0,0,0,0,0,0,0,Qualcomm,0.0,78.7
+159,Samsung,Samsung Galaxy A54 5G,2023,499,107,Exynos 1380,50.0,1.8,3.0,81,97,53,75,102,106,99,82,97,81,Exynos,91.0,77.0
+160,Oppo,Oppo Find X3 Neo,2021,799,106,Qualcomm Snapdragon 865,50.0,1.8,4.0,104,0,106,0,0,0,0,0,0,0,Qualcomm,0.0,70.0
+161,Xiaomi,Xiaomi Redmi Note 14 Pro 5G,2025,399,106,Mediatek Dimensity 7300 Ultra,200.0,1.7,3.0,103,0,117,0,0,0,0,0,0,0,MediaTek,0.0,73.3
+162,Sony,Sony Xperia 1 III,2021,1299,105,Qualcomm Snapdragon 888 5G,12.0,1.7,3.0,107,0,92,0,0,0,0,0,0,0,Qualcomm,0.0,66.3
+163,Samsung,Samsung Galaxy A35 5G,2024,399,104,Exynos 1380,50.0,1.8,3.0,107,0,110,0,0,0,0,0,0,0,Exynos,0.0,72.3
+167,Huawei,Huawei P40,2020,799,102,HiSilicon Kirin 990 5G,50.0,1.9,3.0,108,0,81,0,0,0,0,0,0,0,HiSilicon,0.0,63.0
+168,Xiaomi,Xiaomi Redmi Note 12 Pro 5G,2023,399,102,MediaTek Dimensity 1080,50.0,1.9,3.0,108,60,98,98,96,85,88,83,75,80,MediaTek,88.0,88.7
+169,Black,Black Shark 5 Pro,2022,636,101,Qualcomm 8 Gen 1,108.0,1.75,3.0,105,55,104,92,93,95,88,88,77,93,Qualcomm,87.6,88.0
+170,Motorola,Motorola Edge 30 Pro,2022,799,101,Qualcomm Snapdragon 8Gen 1,50.0,1.8,3.0,102,76,107,78,104,107,100,102,91,102,Qualcomm,95.0,95.0
+171,Apple,Apple iPhone SE (2022),2022,429,100,Apple A15 Bionic,12.0,1.8,1.0,126,50,106,100,111,114,86,77,75,104,Apple,89.8,94.0
+172,Google,Google Pixel 4a,2020,349,100,Qualcomm Snapdragon 730G,12.0,1.7,1.0,116,0,100,0,0,0,0,0,0,0,Qualcomm,0.0,72.0
+173,Motorola,Motorola Moto g75 5G,2024,299,96,Qualcomm Snapdragon 6 Gen 3,50.0,1.79,2.0,86,0,126,0,0,0,0,0,0,0,Qualcomm,0.0,70.7
+174,ZTE,ZTE Axon 30 Ultra,2021,749,96,Qualcomm SnapDragon 888,64.0,1.6,4.0,99,0,79,0,0,0,0,0,0,0,Qualcomm,0.0,59.3
+175,Oppo,Oppo Find X5 Lite,2022,499,95,Mediatek Dimensity 900 5G,64.0,1.7,3.0,100,50,85,96,87,87,94,79,61,91,MediaTek,83.4,78.3
+176,Oppo,Oppo Reno4 5G,2020,549,94,Qualcomm Snapdragon 765G 5G,12.0,1.7,4.0,90,0,97,0,0,0,0,0,0,0,Qualcomm,0.0,62.3
+177,Oppo,Oppo A94 5G,2021,359,93,MediaTek Dimensity 800U,48.0,1.7,4.0,94,0,88,0,0,0,0,0,0,0,MediaTek,0.0,60.7
+181,Samsung,Samsung Galaxy A34 5G,2023,399,92,MediaTek Dimensity 1080,48.0,1.8,3.0,99,45,78,96,86,94,74,78,67,80,MediaTek,80.2,74.0
+182,Samsung,Samsung Galaxy A72,2021,449,92,Qualcomm Snapdragon 720G,64.0,1.8,4.0,100,0,78,0,0,0,0,0,0,0,Qualcomm,0.0,59.3
+184,Oppo,Oppo Reno6 5G,2021,499,89,MediaTek Dimensity 900,64.0,1.7,3.0,88,0,100,0,0,0,0,0,0,0,MediaTek,0.0,62.7
+186,Samsung,Samsung Galaxy A52s 5G,2021,459,88,Qualcomm Snapdragon 778G 5G,64.0,1.8,4.0,82,0,91,0,0,0,0,0,0,0,Qualcomm,0.0,57.7
+187,Samsung,Samsung Galaxy A52 5G,2021,499,88,Qualcomm Snapdragon 750G 5G,64.0,1.8,4.0,92,0,72,0,0,0,0,0,0,0,Qualcomm,0.0,54.7
+188,Honor,Honor 200 Lite,2024,329,86,Mediatek Dimensity 6080,108.0,1.75,3.0,83,0,93,0,0,0,0,0,0,0,MediaTek,0.0,58.7
+189,Motorola,Motorola moto g54 5G,2024,229,85,Mediatek Dimensity 7020,50.0,1.8,2.0,92,0,93,0,0,0,0,0,0,0,MediaTek,0.0,61.7
+190,Samsung,Samsung Galaxy A16 LTE,2024,169,85,Mediatek Helio G99,50.0,1.8,3.0,82,0,105,0,0,0,0,0,0,0,MediaTek,0.0,62.3
+191,Samsung,Samsung Galaxy A33 5G,2022,379,85,Samsung Exynos 1280,48.0,1.8,4.0,91,0,80,0,0,0,0,0,0,0,Exynos,0.0,57.0
+192,Honor,Honor Magic6 Lite (5300 mAh),2024,399,84,Qualcomm Snapdragon 6 Gen 1,108.0,1.75,3.0,78,0,101,0,0,0,0,0,0,0,Qualcomm,0.0,59.7
+193,OnePlus,OnePlus Nord CE 5G,2021,299,84,Qualcomm Snapdragon 750G 5G,64.0,1.79,3.0,89,0,80,0,0,0,0,0,0,0,Qualcomm,0.0,56.3
+194,Xiaomi,Xiaomi Redmi Note 14,2025,199,84,Mediatek Dimensity 7025 Ultra,108.0,1.7,3.0,106,0,76,0,0,0,0,0,0,0,MediaTek,0.0,60.7
+195,Samsung,Samsung Galaxy A15 5G,2024,199,83,MediaTek Helio G99,50.0,1.8,2.0,79,0,97,0,0,0,0,0,0,0,MediaTek,0.0,58.7
+196,Vivo,Vivo Y76 5G,2022,329,83,Mediatek Dimensity 700,50.0,1.8,3.0,108,0,87,0,0,0,0,0,0,0,MediaTek,0.0,65.0
+197,Samsung,Samsung Galaxy A15 LTE,2024,199,81,MediaTek Helio G99,50.0,1.8,2.0,73,0,101,0,0,0,0,0,0,0,MediaTek,0.0,58.0
+198,Honor,Honor 90 Smart,2024,249,79,Mediatek Dimensity 6020,108.0,1.75,3.0,86,0,85,0,0,0,0,0,0,0,MediaTek,0.0,57.0
+199,Samsung,Samsung Galaxy A53 5G,2022,450,79,Samsung Exynos 1280,64.0,1.8,4.0,98,55,45,97,90,74,91,81,66,90,Exynos,85.0,66.0
+200,Sony,Sony Xperia 10 V,2023,449,78,Qualcomm Snapdragon 695 5G,48.0,1.8,3.0,57,52,58,76,83,75,92,88,75,57,Qualcomm,82.8,55.7
+201,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,2022,369,78,Qualcomm Snapdragon 695 5G,108.0,1.9,3.0,81,0,85,0,0,0,0,0,0,0,Qualcomm,0.0,55.3
+203,TCL,TCL 40R 5G,2023,219,76,MediaTek Dimensity 700,50.0,1.8,3.0,92,0,68,0,0,0,0,0,0,0,MediaTek,0.0,53.3
+206,Xiaomi,Xiaomi Redmi Note 13,2023,199,75,MediaTek Dimensity 6080,108.0,1.7,3.0,75,0,68,0,0,0,0,0,0,0,MediaTek,0.0,47.7
+207,Honor,Honor Magic5 Lite 5G,2023,379,74,Qualcomm Snapdragon 695,64.0,1.8,3.0,70,45,77,90,88,72,73,76,69,92,Qualcomm,79.2,64.0
+208,Honor,Honor 90 Lite,2023,218,73,Mediatek Dimensity 6020,100.0,1.9,3.0,89,0,53,0,0,0,0,0,0,0,MediaTek,0.0,47.3
+209,Samsung,Samsung Galaxy A23 5G,2022,299,70,Qualcomm Snapdragon 695 5G,50.0,1.8,4.0,64,0,85,0,0,0,0,0,0,0,Qualcomm,0.0,49.7
+210,Fairphone,Fairphone 4,2021,579,69,Qualcomm Snapdragon 750G 5G,48.0,1.6,2.0,57,76,70,86,71,83,60,63,86,88,Qualcomm,73.2,67.7
+211,Oppo,Oppo A78 5G,2023,295,69,Mediatek Dimensity 700,50.0,1.8,2.0,75,0,79,0,0,0,0,0,0,0,MediaTek,0.0,51.3
+213,Motorola,Motorola moto g34 5G,2024,179,67,Qualcomm Snapdragon 695 5G,50.0,1.8,2.0,57,0,97,0,0,0,0,0,0,0,Qualcomm,0.0,51.3
+214,Samsung,Samsung Galaxy A14 5G,2023,199,67,MediaTek Dimensity 700,50.0,1.8,3.0,77,0,62,0,0,0,0,0,0,0,MediaTek,0.0,46.3
+215,Motorola,Motorola Moto G62 5G,2022,279,66,Qualcomm Snapdragon 480+ 5G,50.0,1.8,3.0,60,0,71,0,0,0,0,0,0,0,Qualcomm,0.0,43.7
+216,Xiaomi,Xiaomi Redmi Note 11S 5G,2022,299,65,Mediatek Dimensity 810,50.0,1.8,3.0,50,0,83,0,0,0,0,0,0,0,MediaTek,0.0,44.3
+217,Oppo,Oppo Reno8 Lite 5G,2022,449,64,Qualcomm Snapdragon 695,64.0,1.7,3.0,55,50,80,83,90,92,75,76,64,77,Qualcomm,77.6,61.7
+218,Sony,Sony Xperia 10 IV,2022,499,63,Qualcomm Snapdragon 695 5G,12.0,1.8,3.0,52,55,73,73,84,40,52,93,73,83,Qualcomm,75.0,60.0
+220,Xiaomi,Xiaomi Redmi 13C,2023,109,63,MediaTek Helio G85,50.0,1.8,3.0,58,0,82,0,0,0,0,0,0,0,MediaTek,0.0,46.7
+221,Xiaomi,Xiaomi Redmi 12 5G,2023,219,63,Qualcomm Snapdragon 4 Gen 2,50.0,1.8,2.0,57,0,76,0,0,0,0,0,0,0,Qualcomm,0.0,44.3
+223,Honor,Honor Magic4 Lite 5G,2022,349,61,Qualcomm Snapdragon 695 5G,48.0,1.8,3.0,85,50,40,85,84,82,84,90,64,33,Qualcomm,81.4,58.3
+224,Honor,Honor X7,2022,219,61,Qualcomm Snapdragon 680,48.0,1.8,4.0,52,0,69,0,0,0,0,0,0,0,Qualcomm,0.0,40.3
+225,Xiaomi,Xiaomi Redmi 13C 5G,2023,169,60,MediaTek Dimensity 6100+ 5G,50.0,1.8,2.0,56,0,90,0,0,0,0,0,0,0,MediaTek,0.0,48.7
+226,Xiaomi,Xiaomi Redmi Note 11,2022,199,60,Qualcomm Snapdragon 680 4G,50.0,1.8,4.0,52,0,62,0,0,0,0,0,0,0,Qualcomm,0.0,38.0
+230,Motorola,Motorola Moto G23,2023,229,54,MediaTek Helio G85,50.0,1.8,3.0,53,0,43,0,0,0,0,0,0,0,MediaTek,0.0,32.0
+231,Oppo,Oppo A77 5G,2022,329,53,MediaTek Dimensity 810,48.0,1.7,2.0,76,0,38,0,0,0,0,0,0,0,MediaTek,0.0,38.0
+232,Honor,Honor X8 5G,2022,279,52,Qualcomm Snapdragon 480 Plus,48.0,1.8,3.0,52,0,68,0,0,0,0,0,0,0,Qualcomm,0.0,40.0
+233,TCL,TCL 406,2023,139,52,MediaTek Helio P22,13.0,2.2,2.0,55,0,52,0,0,0,0,0,0,0,MediaTek,0.0,35.7
+234,Xiaomi,Xiaomi Redmi 10 2022,2022,179,51,Mediatek Helio G88,50.0,1.8,3.0,55,0,37,0,0,0,0,0,0,0,MediaTek,0.0,30.7
+235,Crosscall,Crosscall Action-X5,2021,549,50,Qualcomm Snapdragon 662,48.0,1.8,2.0,51,25,38,62,51,76,80,67,77,93,Qualcomm,67.4,38.0
+236,Samsung,Samsung Galaxy A22 5G,2021,259,48,MediaTek Dimensity 700 5G,48.0,1.79,3.0,54,0,31,0,0,0,0,0,0,0,MediaTek,0.0,28.3
+237,Crosscall,Crosscall Core-Z5,2022,799,47,Qualcomm QCM6490,48.0,1.79,1.0,52,25,37,70,50,69,52,83,75,43,Qualcomm,66.0,38.0
+238,Oppo,Oppo A57,2022,199,46,Mediatek Dimensity 810,13.0,2.2,2.0,53,0,35,0,0,0,0,0,0,0,MediaTek,0.0,29.3
+239,Oppo,Oppo A16s 5G,2021,189,46,Mediatek Helio G35,13.0,2.2,3.0,53,0,36,0,0,0,0,0,0,0,MediaTek,0.0,29.7
+241,Xiaomi,Xiaomi Redmi A3,2024,132,45,Mediatek Helio G36,8.0,2.0,1.0,53,0,37,0,0,0,0,0,0,0,MediaTek,0.0,30.0
+242,Xiaomi,Xiaomi Redmi 12C,2023,169,45,MediaTek Helio G85,50.0,1.8,2.0,50,0,43,0,0,0,0,0,0,0,MediaTek,0.0,31.0
